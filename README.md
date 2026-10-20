@@ -26,4 +26,3 @@ Hubungkan repo GitHub ke Vercel dengan root directory `web`. Pasang Neon dari Ve
 ## Batas prototipe
 
 Autentikasi belum disertakan sesuai arahan. Sampai login dan hak akses aktif, jalankan hanya mode demo dengan data contoh; jangan memasukkan data keuangan atau dokumen klien yang sensitif. Endpoint mutasi belum dibatasi berdasarkan peran. Blob private menyimpan berkas, tetapi route aplikasi belum dapat membedakan pengguna karena login belum ada.
-
